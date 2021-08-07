@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+C:\Users\alina\source\repos\New folder\Hangman-Spanzuratoarea\Source1.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alina\source\repos\New folder\Hangman-Spanzuratoarea\Source1.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\alina\source\repos\New folder\Hangman-Spanzuratoarea\Source1.cpp(221,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Hangman-Spanzuratoarea.vcxproj -> C:\Users\alina\source\repos\New folder\Hangman-Spanzuratoarea\Debug\Hangman-Spanzuratoarea.exe
